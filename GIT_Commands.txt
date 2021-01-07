@@ -1,0 +1,9 @@
+git clone <url of repository> - to bring everything back from git hub on a new machine.
+
+git add <file name> - To add the file to staging area (enables tracking)
+
+Git status  - to get the status of how many files are modified and ready for commit
+
+Git Commit -m 'with -m and between single quotes we can commit the files in staging area that are ready for commit.
+
+Git Push  - To send all the local files to Git hub so that it can be seen from anywhere.
